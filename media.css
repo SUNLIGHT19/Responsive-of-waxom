@@ -1,0 +1,440 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    #the_banner {
+        padding-top: 195px;
+        padding-bottom: 200px;
+    }
+    .banner_texts h1 {
+       
+        font-size: 48px;
+      
+    }
+    .fgradianttext h3 {
+        
+        font-size: 25px;
+        
+    }
+
+    .fgradianttext h4 {
+        font-size: 17px;
+     
+    }
+    #videosec {
+      
+        padding-top: 98px;
+        padding-bottom: 130px;
+      
+    }
+    #firstfooter {
+     
+        padding-top: 87px;
+        padding-bottom: 87px;
+    }
+
+
+  }
+
+/* medium device  */
+
+@media(min-width:768px) and (max-width:991.98px){
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-nav {
+        
+        text-align: center;
+    }
+    #the_banner {
+	
+        padding-top: 80px;
+        padding-bottom: 158px;
+    }
+    .banner_texts h3 {
+	
+        font-size: 23px;
+        
+    }
+    .banner_texts h1 {
+        font-size: 35px;
+        line-height: 34px;
+    }
+    .banner_texts p {
+        
+        width: 275px;
+        
+    }
+    .aboout_textss p {
+        padding-bottom: 130px;
+    }
+    .fgradianttext h4 {
+        padding-bottom: 41px;
+    }
+    .ml-auto, .mx-auto {
+        margin-left: auto !important;
+        text-align: center;
+    }
+    #videosec {
+    
+        padding-top: 77px;
+        padding-bottom: 131px;
+        
+    }
+    .phonetext {
+        padding-top: 90px;
+    }
+    .phonearrow {
+        margin-left: 0px;
+    }
+
+    .counterall {
+	
+        padding-bottom: 70px;
+    }
+    #counterpart {
+        
+        padding-bottom: 13px;
+      }
+      .ffsec {
+        padding-top: 32px;
+    }
+    
+
+.fssec {
+	padding-top: 39px;
+}
+.ffsec p {
+	
+	font-size: 12px;
+    padding-bottom: 12px;
+
+}
+#firstfooter {
+	padding-top: 56px;
+	padding-bottom: 65px;
+}
+
+
+   }
+
+
+    
+
+/* small device */
+@media(min-width:576px) and (max-width:767.98px){
+    
+       .fgradianttext h4 {
+        padding-bottom: 41px;
+    }
+    .ml-auto, .mx-auto {
+        margin-left: auto !important;
+        text-align: center;
+    }
+    .navbar-toggler i {
+        color: #fff;
+    }
+    .navbar-nav {
+        
+        text-align: center;
+    }
+    #the_banner {
+	
+        padding-top: 80px;
+        padding-bottom: 158px;
+    }
+    .banner_texts h3 {
+	
+        font-size: 23px;
+        
+    }
+    .banner_texts h1 {
+        font-size: 35px;
+        line-height: 34px;
+    }
+    .banner_texts p {
+        
+        width: 275px;
+        
+    }
+    .aboout_textss p {
+       
+        padding-bottom: 160px;
+    }
+
+    .ffs {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .fst p {
+        font-size: 12px;
+        padding-bottom: 30px;
+    }
+    .mixitupmenu ul li a {
+       
+        padding: 0px 14px;
+    }
+ 
+    .mixitem {
+        margin-bottom: 20px;
+    }
+    #videosec {
+      
+        padding-top: 73px;
+        padding-bottom: 113px;
+      
+    }
+    .phonetext {
+        padding-top: 50px;
+    }
+    .phonearrow {
+        margin-left: 0px;
+    }
+    .counterall {
+	
+        padding-bottom: 70px;
+    }
+    #counterpart {
+        
+        padding-bottom: 13px;
+      }
+      #centeringpart {
+        padding-top: 40px;
+        padding-bottom: 0px;
+    }
+    .photocalender {
+       
+        top: 4px;
+        left: 7px;
+       
+    }
+    .photocalender .toppart span {
+      
+        font-size: 15px;
+       
+    }
+    .photocalender .bottompart span {
+       
+        font-size: 15px;
+        
+    }
+    .photocalender .toppart {
+        padding: 0px 8px;
+      
+    }
+    .photocalender .bottompart {
+        padding: 1px 13px 6px 14px !important;
+     
+    }
+    .pbtext h3 {
+       
+        font-size: 15px;
+        padding-bottom: 3px;
+        line-height: 24px;
+    }
+    .pbtext {
+        padding-top: 4px;
+    }
+    .pbtext p {
+        padding-bottom: 7px;
+        font-size: 8px;
+        line-height: 21px;
+    }
+    #firstfooter {
+        padding-top: 70px;
+        padding-bottom: 25px;
+    }
+    .companies {
+	
+        margin-bottom: 50px;
+       
+    }
+    .leftpart h4 {
+        font-size: 10px;
+    
+        font-weight: 500;
+    
+        padding-bottom: 19px;
+    }
+    .rightpartt h4 {
+        font-size: 12px;
+        
+    }
+    #lastfootr {
+        
+        padding: 30px 0px;
+    }
+    .fssec {
+        
+        text-align: center;
+    }
+    #firstfooterss {
+        
+        padding-bottom: 18px;
+    }
+    
+        
+    .fssec {
+        padding-top: 17px;
+    } 
+ }
+    @media(max-width:575.98px){
+
+.navbar-toggler i {
+    color: #fff;
+}
+.navbar-nav {
+	
+	text-align: center;
+}
+#the_banner {
+	
+	padding-top: 80px;
+	padding-bottom: 158px;
+}
+.banner_texts h3 {
+	
+	font-size: 23px;
+	
+}
+.banner_texts h1 {
+	font-size: 35px;
+	line-height: 34px;
+}
+.banner_texts p {
+	
+	width: 275px;
+	
+}
+#about_part {
+
+	padding-top: 50px;
+}
+.aboout_textss p {
+
+	padding-bottom: 129px;
+}
+.abscnd h3 {
+	
+	padding-bottom: 15px;
+	font-size: 17px;
+	
+}
+.fgradianttext h3 {
+	
+	font-size: 16px;
+	
+}
+.fgradianttext h4 {
+	
+	font-size: 20px;
+	
+	padding-bottom: 40px;
+	line-height: 28px;
+}
+.kinabtn {
+	margin-left: 40px !important;
+}
+.fst p {
+	
+	font-size: 14px;
+	
+}
+.mixitupmenu ul li a {
+	
+	font-size: 14px;
+	
+	padding: 0px 16px;
+}
+#videosec {
+	
+	padding-top: 74px;
+	padding-bottom: 95px;
+
+}
+.videostuff h3 {
+	
+	font-size: 22px;
+	font-weight: 507;
+	padding-bottom: 14px;
+	padding-top: 22px;
+}
+.videostuff p {
+
+	font-weight: 500;
+	
+}
+.phonetext h3 {
+	
+	padding-bottom: 16px;
+	font-size: 21px;
+	font-weight: 700;
+
+}
+.phonetext p {
+
+	font-weight: 400;
+	font-size: 12px;
+	
+}
+.phonearrow {
+	margin-left: 0px;
+}
+.phonetext h3 {
+
+	font-size: 10px;
+	
+}
+.counterall {
+	
+	padding-bottom: 70px;
+}
+#counterpart {
+	
+	padding-bottom: 13px;
+  }
+  #centeringpart {
+	padding-top: 45px;
+	padding-bottom: 31px;
+}
+#firstfooter {
+	padding-top: 53px;
+	padding-bottom: 20px;
+}
+.companies {
+	
+	margin-bottom: 50px;
+	text-align: center;
+}
+.fssec {
+	padding-top: 10px;
+}
+.photo1{
+    text-align: center;
+}
+.photo3{
+    margin-bottom: 15px;
+}
+.leftpart h4 {
+	font-size: 10px;
+
+	font-weight: 500;
+
+	padding-bottom: 19px;
+}
+.rightpartt h4 {
+	font-size: 12px;
+	
+}
+#lastfootr {
+	
+	padding: 30px 0px;
+}
+.fssec {
+	
+	text-align: center;
+}
+#firstfooterss {
+	
+	padding-bottom: 18px;
+}
+
+	
+}
